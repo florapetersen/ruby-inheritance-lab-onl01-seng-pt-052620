@@ -1,2 +1,2 @@
-class user
+class User
 end
