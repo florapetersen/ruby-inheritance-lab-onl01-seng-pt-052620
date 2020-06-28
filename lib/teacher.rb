@@ -1,4 +1,4 @@
-require ''
+require 'lib/user.rb'
 
 class Teacher
 
